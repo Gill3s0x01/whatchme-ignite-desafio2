@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="center">
-    <img alt="WhatchMe" src="./assets/whatchme.jpg" width="250px" />
+    <img alt="WhatchMe" src="./assets/whatchmelogo.jpg" width="400px" />
   </p>
 
   <h3 align="center">
