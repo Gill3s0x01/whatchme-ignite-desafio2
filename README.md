@@ -9,10 +9,10 @@
     Uma aplicação de um catálogo de filmes utilizando uma fake API da Prime Video (AmazonPrime)
   </h3>
   <p align="center">
-      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/https://github.com/Gilles30/whatchme-ignite-desafio2?color=1db954">
-      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/https://github.com/Gilles30/whatchme-ignite-desafio2?color=1db954">
+     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/whatchme-ignite-desafio2?color=1db954">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/whatchme-ignite-desafio2?color=1db954">
       <img alt="Stars" src="https://img.shields.io/github/stars/Gilles30/whatchme-ignite-desafio2?color=1db954">
-      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Gilles30/https://github.com/Gilles30/whatchme-ignite-desafio2?color=1db954">
+      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Gilles30/whatchme-ignite-desafio2?color=1db954">
   </p>
 </h1>
 
